@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocComments xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Comments>
+    <Comment>
+      <ID>fa81236d-d035-43c2-969b-c7ce354f72bf</ID>
+      <Text>asdasd</Text>
+      <UserName />
+      <SerializedSelection>4</SerializedSelection>
+    </Comment>
+    <Comment>
+      <ID>b97e7b60-3bd5-45cc-a1b5-4681f89cd5df</ID>
+      <Text />
+      <UserName />
+      <SerializedSelection>5</SerializedSelection>
+    </Comment>
+  </Comments>
+  <SerializedHighlight>type:textContent|421$427$4$highlight$|538$543$5$highlight$</SerializedHighlight>
+</DocComments>
